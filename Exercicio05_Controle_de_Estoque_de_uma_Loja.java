@@ -15,7 +15,7 @@ package Exercicios_de_Logica;
 
 import java.util.Scanner;
 
-public class Exercicio5_Controle_de_Estoque_de_uma_Loja {
+public class Exercicio05_Controle_de_Estoque_de_uma_Loja {
 
     public static void main(String[] args) {
 
