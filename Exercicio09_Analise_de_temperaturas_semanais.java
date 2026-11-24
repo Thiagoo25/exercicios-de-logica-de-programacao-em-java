@@ -1,6 +1,6 @@
 package Exercicios_de_Logica;
 
-/* Desenvolva um programa em Java que realize a análise das
+/* Desenvolva um programa que realize a análise das
  * temperaturas registradas em três cidades durante sete dias
  * consecutivos.
  *
